@@ -4,11 +4,84 @@
 *    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
 *    
 *    Project: https://spring.io/projects/spring-boot
-*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v1.5.21.RELEASE
-*    Source File: RunCommand.java
+*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v2.7.18
+*    Source File: SpringApplicationRunner.java
 *    
 *    Copyrights:
-*      copyright 2012-2017 the original author or authors
+*      copyright 2012-2022 the original author or authors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    
+*    Release: https://github.com/google/guava/releases/tag/v33.2.1
+*    Source File: Count.java
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    
+*    Project: https://spring.io/projects/spring-boot
+*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v3.3.1
+*    Source File: JarUri.java
+*    
+*    Copyrights:
+*      copyright 2012-2020 the original author or authors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    
+*    Release: https://github.com/mbogoevici/stream-cli/releases/tag/master-5e8f2ec
+*    Source File: RunModuleCommandHandler.java
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    
+*    Release: https://github.com/cf-testorg/huge-repo-is-it/releases/tag/master-db44d73
+*    Source File: TypeExcludeFilter.java
+*    
+*    Copyrights:
+*      copyright 2012-2019 the original author or authors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    
+*    Project: https://spring.io/projects/spring-boot
+*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v2.7.18
+*    Source File: ResourceUtils.java
+*    
+*    Copyrights:
+*      copyright 2012-2020 the original author or authors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    
+*    Project: https://spring.io/projects/spring-boot
+*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v3.3.1
+*    Source File: TaskExecutorBuilder.java
+*    
+*    Copyrights:
+*      copyright 2012-2020 the original author or authors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    
+*    Project: https://spring.io/projects/spring-boot
+*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v2.5.15
+*    Source File: SourceOptions.java
+*    
+*    Copyrights:
+*      copyright 2012-2018 the original author or authors
 *    
 *    Licenses:
 *      Apache License 2.0
