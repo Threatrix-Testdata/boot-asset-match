@@ -4,7 +4,7 @@
 *    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
 *    
 *    Project: https://spring.io/projects/spring-boot
-*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v2.7.18
+*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v2.6.15
 *    Source File: SpringApplicationRunner.java
 *    
 *    Copyrights:
@@ -17,6 +17,10 @@
 *    
 *    Release: https://github.com/google/guava/releases/tag/v33.2.1
 *    Source File: Count.java
+*    
+*    Copyrights:
+*      copyright (c) 2011 the guava authors
+*    
 *    Licenses:
 *      Apache License 2.0
 *      SPDXId: Apache-2.0
@@ -36,6 +40,10 @@
 *    
 *    Release: https://github.com/mbogoevici/stream-cli/releases/tag/master-5e8f2ec
 *    Source File: RunModuleCommandHandler.java
+*    
+*    Copyrights:
+*      copyright 2015 the original author or authors
+*    
 *    Licenses:
 *      Apache License 2.0
 *      SPDXId: Apache-2.0
@@ -52,8 +60,7 @@
 *      SPDXId: Apache-2.0
 *    
 *    
-*    Project: https://spring.io/projects/spring-boot
-*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v2.7.18
+*    Release: https://github.com/cf-testorg/spring-boot/releases/tag/v2.3.4.RELEASE
 *    Source File: ResourceUtils.java
 *    
 *    Copyrights:
@@ -65,11 +72,11 @@
 *    
 *    
 *    Project: https://spring.io/projects/spring-boot
-*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v3.3.1
-*    Source File: TaskExecutorBuilder.java
+*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v3.2.7
+*    Source File: ThreadPoolTaskExecutorBuilder.java
 *    
 *    Copyrights:
-*      copyright 2012-2020 the original author or authors
+*      copyright 2012-2023 the original author or authors
 *    
 *    Licenses:
 *      Apache License 2.0
@@ -77,11 +84,11 @@
 *    
 *    
 *    Project: https://spring.io/projects/spring-boot
-*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v2.5.15
+*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v2.7.18
 *    Source File: SourceOptions.java
 *    
 *    Copyrights:
-*      copyright 2012-2018 the original author or authors
+*      copyright 2012-2021 the original author or authors
 *    
 *    Licenses:
 *      Apache License 2.0
